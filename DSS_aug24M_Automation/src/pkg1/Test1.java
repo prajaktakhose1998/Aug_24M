@@ -22,6 +22,7 @@ public class Test1
 	
 	driver.manage().window().maximize();
 	
+	driver.close();
 
 	}
 
